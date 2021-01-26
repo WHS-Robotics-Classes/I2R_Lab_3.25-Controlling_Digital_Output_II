@@ -1,9 +1,9 @@
 # Arduino_3.25-Controlling_Digital_Output_II
-Second try for this one
+Let's see what we remember from our first coding assignment.  This is a repeat with a slight variation.  This time there is no starter code.
 
 ### Step One: Build the Prototype
 
-To begin, build this prototype on your breadboard (Instead of connecting the power wires for each circuit to the 5V pin, connect them to pins 7 and 8 as the diagram describes):
+To begin, build this prototype on your breadboard:
 
 ![Lab 3.2 Prototype](CIRCUIT-3-25.PNG)
 
