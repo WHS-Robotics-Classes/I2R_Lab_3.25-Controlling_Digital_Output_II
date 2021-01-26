@@ -28,7 +28,7 @@ See the video here for guidance.
 
 [![Lab 3.25 Prototype](http://img.youtube.com/vi/bVmUTajBu9o/0.jpg)](https://www.youtube.com/watch?v=bVmUTajBu9o "Lab 3.25 Prototype")
 
-### Step Three Debug and Submit.
+### Step Three: Debug and Submit
 
 Make sure your prototype behaves the same way as the one in the video.  As in the previous assignment, make a new file here on GitHub.  Name it **3.25_Controlling_Digital_Output_II** and Commit it to the repository.
 
