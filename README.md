@@ -11,7 +11,7 @@ After you have completed the prototype you can test your circuits using the 5V p
 
 ### Step Two: Write the Code
 
-Write a sketch in [Codebender.edu](https://edu.codebender.cc/class/1ajtp) that does the following:
+Write a sketch in the Arduino Web Editor that does the following:
 - LED2 blink on for 500 ms
 - LED2 blink off for 500 ms
   - Repeat this cycle once
