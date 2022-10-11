@@ -32,4 +32,4 @@ See the video here for guidance.
 
 Make sure your prototype behaves the same way as the one in the video.  As in the previous assignment, make a new file here on GitHub.  Name it **3.25_Controlling_Digital_Output_II** and Commit it to the repository.
 
-**REMEMBER: THIS ASSIGNMENT REQUIRES BOTH A VIDEO OF YOUR PROTOTYPE AND CODE SUBMITTED ON GITHUB**
+**REMEMBER: THIS ASSIGNMENT REQUIRES BOTH A VIDEO OF YOUR PROTOTYPE SUBMITTED ON CANVAS AND CODE SUBMITTED ON GITHUB**
